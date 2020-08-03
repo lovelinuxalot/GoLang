@@ -1,0 +1,21 @@
+#Constants
+- a simple, unchanging value
+- Only exist at compile time. 
+- there are ***TYPED*** and ***UNTYPED*** constants
+  - const hello = "Hello, World"
+  - const typedHello string = "Hello, World"
+- UNTYPED constant
+  - a constant value that does not yet have a fixed type
+    - "constant of a ***kind***"
+    - not yet forced to obey the strict rules that prevent combining differently typed values
+  - An untyped constant can be implicitly converted by the compiler. 
+- It is this notion of an untyped constant that makes it possible for us to use constants in Go with great freedom.
+  - This is useful, for instance
+    - what is the type of 42?
+      - int?
+      - uint?
+      - float64?
+    - if we didn’t have UNTYPED constants (constants of a kind), then we would have to do conversion on every literal value we used and that would suck
+###code:
+ - https://play.golang.org/p/-ZwrDDimgH 
+ - https://play.golang.org/p/lVURPQe-N4 
