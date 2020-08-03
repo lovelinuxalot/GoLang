@@ -7,6 +7,6 @@
   - !=
   - <
   - \>
-###code:
+### code:
 - https://play.golang.org/p/WmPsOkVzwS 
 - https://play.golang.org/p/inS_7F0HdC 

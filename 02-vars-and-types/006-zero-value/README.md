@@ -1,4 +1,4 @@
-#Zero value
+# Zero value
 - understanding zero value
   - false for booleans
   - 0 for integers
@@ -16,5 +16,5 @@
   - zero value
   - package scope
 
-###code:
+### code:
 https://play.golang.org/p/v3ez_kTwjn 

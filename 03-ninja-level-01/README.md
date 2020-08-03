@@ -18,7 +18,7 @@ here’s the solution: https://play.golang.org/p/yYXnWXIQNa
 - in func main
   - print out the values for each identifier
   - The compiler assigned values to the variables. What are these values called?
-###code:
+### code:
 here’s the solution: https://play.golang.org/p/jzHwSlles9 
 
 ---
@@ -31,7 +31,7 @@ here’s the solution: https://play.golang.org/p/jzHwSlles9
   - in func main
     - use fmt.Sprintf to print all of the VALUES to one single string. ASSIGN the returned value of TYPE string using the short declaration operator to a VARIABLE with the IDENTIFIER "s"
     - print out the value stored by variable "s"
-###code:
+### code:
 here’s the solution: https://play.golang.org/p/QFctSQB_h3 
 
 ---
@@ -46,11 +46,11 @@ here’s the solution: https://play.golang.org/p/QFctSQB_h3
     - print out the type of the variable "d"
     - assign 42 to the VARIABLE "d" using the "=" OPERATOR
     - print out the value of the variable "d"
-###code:
+### code:
 here’s the solution: https://play.golang.org/p/snm4WuuYmG 
 
 ---
-#Hands-on exercise #5
+# Hands-on exercise #5
 - Building on the code from the previous example
   - at the package level scope, using the "var" keyword, create a VARIABLE with the IDENTIFIER "f". The variable should be of the UNDERLYING TYPE of your custom TYPE "e"
     - eg:
@@ -70,9 +70,9 @@ here’s the solution: https://play.golang.org/p/snm4WuuYmG
         - then use the "=" operator to ASSIGN that value to "f"
         - print out the value stored in "f"
         - print out the type of "f"
-###code:
+### code:
 here’s the solution: https://play.golang.org/p/cj8RrYgBOD 
 
 ---
-#Hands-on exercise #6
+# Hands-on exercise #6
 [Take this quiz.](https://goo.gl/forms/dfwmTuYTe5ox8nyt1)

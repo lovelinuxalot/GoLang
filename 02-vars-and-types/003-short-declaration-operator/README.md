@@ -1,5 +1,5 @@
 # Short declaration operator
-##Terminology
+## Terminology
 - ***keywords***
   - these are words that a reserved for use by the Go programming language
     - they are sometimes called “reserved words”

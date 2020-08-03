@@ -1,4 +1,4 @@
-#The var keyword
+# The var keyword
 - ***parens***
   - ( )
 - ***curly braces***
@@ -7,8 +7,8 @@
   - any place within the package
 ### scope
   - where a variable exists and is accessible
-  - best practice: keep scope as “narrow” as possible
+  - best practice: keep scope as "narrow" as possible
 
-### ****code: 
+### code: 
 https://play.golang.org/p/iXJaHEZztc 
 https://play.golang.org/p/D0Sxev__J_i 

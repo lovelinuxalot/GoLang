@@ -1,4 +1,4 @@
-#Constants
+# Constants
 - a simple, unchanging value
 - Only exist at compile time. 
 - there are ***TYPED*** and ***UNTYPED*** constants
@@ -16,6 +16,6 @@
       - uint?
       - float64?
     - if we didn’t have UNTYPED constants (constants of a kind), then we would have to do conversion on every literal value we used and that would suck
-###code:
+### code:
  - https://play.golang.org/p/-ZwrDDimgH 
  - https://play.golang.org/p/lVURPQe-N4 
